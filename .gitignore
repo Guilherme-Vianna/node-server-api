@@ -1,2 +1,2 @@
-backend/node_modules
-backend/src/.env
+node_modules
+/src/.env
